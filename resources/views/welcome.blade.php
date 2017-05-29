@@ -32,9 +32,7 @@
 
                 filter: gray brightness(30%); /* IE6-9 */
                 -webkit-filter: grayscale(1) brightness(30%); /* Google Chrome, Safari 6+ & Opera 15+ */
-                filter: grayscale(1) brightness(30%); /* Microsoft Edge and Firefox 35+ */
-
-                
+                filter: grayscale(1) brightness(30%); /* Microsoft Edge and Firefox 35+ */                
             }
 
             .full-height {
