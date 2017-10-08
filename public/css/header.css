@@ -1,0 +1,20 @@
+.header {
+    z-index: 10;
+    height: 70px;
+    width: 800px;
+    font-size: 22px;
+    margin: 20px auto 60px auto;
+    padding: 30px 0 0 100px;
+    background: url(/logo_white.png) no-repeat left center;
+    background-size: 70px 70px;
+}
+
+.header > a {
+    color: #DEDEDE;
+    padding: 0 15px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}

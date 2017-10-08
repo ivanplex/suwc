@@ -1,0 +1,30 @@
+.form-group {
+	width: 100%
+	min-height: 50px;
+	margin: 10px;
+	float: left;
+	clear: both;
+}
+
+.form-group > .control-label {
+	width: 200px;
+	margin-top: 5px;
+	float: left;
+	clear: left;
+}
+
+.form-group > .form-control {
+	height: 22px;
+	float: left;
+	clear: right;
+	padding: 6px 12px;
+	font-size: 14px;
+	min-width: 300px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+}
+
+.form-group > .form-control:focus {
+	border-color: rgba(82,168,236,.8);
+	box-shadow: 0 0 8px rgba(82,168,236,.6);
+}

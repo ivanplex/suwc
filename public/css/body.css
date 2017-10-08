@@ -1,0 +1,38 @@
+html, body {
+    /*background-color: #fff;*/
+    color: #FFF;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url(/bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+p {
+    margin: 30px 15px;
+    font-size: 20px;
+}
+
+.section {
+    z-index: 10;
+    display: block;
+    width: 800px;
+    clear: both;
+    margin: 30px auto 30px auto;
+    font-size: 20px;
+}
+
+.section-header {
+    font-size: 32px;
+    height: 50px;
+    margin: 0px 0px 10px 0px;
+    border-bottom: 0.5px solid #CCC;
+}
+
+.section > h1 {
+    font-size: 26px;
+    font-weight: 500;
+}
