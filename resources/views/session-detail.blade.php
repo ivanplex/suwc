@@ -21,7 +21,7 @@
         </div>
 
         <h1>Wind</h1>
-        <script src="http://widget.windguru.cz/js/wg_widget.php" type="text/javascript"></script>
+        <script src="https://widget.windguru.cz/js/wg_widget.php" type="text/javascript"></script>
         <script language="JavaScript" type="text/javascript">
         //<![CDATA[
         WgWidget({
